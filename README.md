@@ -2,7 +2,7 @@
 
 Code for for the TMLR paper:
 
-> **A Novel Method for Time Series Counterfactual Inference Based on Penalized Autoencoders**
+> **CEPAE: Conditional Entropy-Penalized Autoencoders for Time Series Counterfactuals**
 
 This repository contains:
 - Autoencoder-based counterfactual generators (**CEPAE**, **CVAE**, **CAAE**)
