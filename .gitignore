@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# Data / artifacts
+data/**/*
+!data/README.md
+!data/.gitkeep
+checkpoints/
+runs/
+wandb/
+*.h5
+*.ckpt
+*.keras
+
+# OS
+.DS_Store
+Thumbs.db
